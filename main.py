@@ -312,7 +312,7 @@ def backtest_range(ticker_df_30min, start: int, end: int, use_leveraged_etf=Fals
                         or underlying_close < cur_ema13_daily * 0.98
         multiplier = 1
         if cur_row['previous_is_top_divergence_daily']:
-            multiplier = 0
+            multiplier = 0.20
         should_long = False
 
         if (not is_bearish
