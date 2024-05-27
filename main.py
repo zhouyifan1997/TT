@@ -132,8 +132,8 @@ class Account:
 
         if self.account_value > self.available_balance * 1.2:
             self.available_balance *= 1.2
-        elif self.account_value < self.available_balance * 0.8:
-            self.available_balance *= 0.8
+        elif self.account_value < self.available_balance * 0.9:
+            self.available_balance *= 0.9
         return pnl
 
 
