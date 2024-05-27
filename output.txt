@@ -1,0 +1,57 @@
+
+            Range: 2011/01/01 - 2011/12/31
+            Total trade: 58
+            Win rate: 31.03%
+            Risk reward ratio: 1.37
+            Max drawdown: 35.13%
+            Net profit: -23.7%
+
+            
+
+            Range: 2012/01/01 - 2012/12/31
+            Total trade: 49
+            Win rate: 48.98%
+            Risk reward ratio: 1.99
+            Max drawdown: 22.75%
+            Net profit: 60.83%
+
+            
+
+            Range: 2013/01/01 - 2013/12/31
+            Total trade: 75
+            Win rate: 36.0%
+            Risk reward ratio: 2.34
+            Max drawdown: 14.19%
+            Net profit: 36.74%
+
+            
+
+            Range: 2014/01/01 - 2014/12/31
+            Total trade: 70
+            Win rate: 47.14%
+            Risk reward ratio: 1.65
+            Max drawdown: 13.71%
+            Net profit: 25.28%
+
+            
+
+            Range: 2015/01/01 - 2015/12/31
+            Total trade: 59
+            Win rate: 30.51%
+            Risk reward ratio: 2.1
+            Max drawdown: 30.42%
+            Net profit: -5.24%
+
+            
+
+            Range: 2011/01/01 - 2015/12/31
+            Total trade: 313
+            Win rate: 38.98%
+            Risk reward ratio: 1.87
+            Max drawdown: 35.13%
+            Net profit: 101.98%
+            Average profit yearly: 18.78%
+            Average drawdown yearly: 23.24%
+            Max profit yearly: 60.83%
+            Max drawdown yearly: 35.13%
+            
